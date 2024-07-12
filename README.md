@@ -4,30 +4,25 @@ Assignment5_1
 
 by Doug Summe
 
-Link to Notebook
+Link to Notebook: https://github.com/dsumme-ai/Assignment5_1/blob/main/prompt5.1_Doug.ipynb
 
-Summary of Findings
+# *Final Summary*
+
+Findings: 
+
+1. People that already go to bar once a month are much more likely to accept a bar coupon. No kids, not divorced and under 30 also increase acceptance rate.
+2. People with friends or partners headed home or not specific destination, are more likely accept coffee house coupons. Afternoon to evening 2pm to 10pm have the best acceptance rates. 
 
 
 
-Project Organization
-· A README file with summary of findings and link to notebook
-· Jupyter notebook with headings and text appropriately formatted
-· No unnecessary files
-· Directories and files have appropriate names and location
+Hypthosesis: People not alone and not with kids, are more likely to accept because they are looking for entertainment. Targeting when they are headed home or no destination between 2pm and 10pm 
 
-Syntax and Code Quality
-· Libraries are imported and aliased correctly
-· Code does not contain errors
-· No long strings of code output
-· Demonstrates competency with pandas
-· Demonstrates competency with seaborn
-· Comments are used appropriately to explain code
-· Variables are sensible
+Next Steps:
 
-indings
-· Clearly stated problem for specific coupon group
-· Visualizations that demonstrate exploring differences in those who accepted and rejected the coupon
-· Interpretation of descriptive and inferential statistics is correct and concise
-· The findings are clearly stated in their own section with actionable items highlighted
-· Next steps and recommendations
+Explore age and other demographics information to see if we define a tighter cohort.
+
+To validate: Run an experiment target people between 2PM -10pm that are headed home or no destination and not alone, 
+Possible experiments: 
+1. Coffee coupon vs resturaunt
+2. Coffee coupon vs take away/carry out 
+3. Coffee coupon vs bar
