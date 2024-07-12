@@ -4,7 +4,7 @@ Assignment5_1
 
 by Doug Summe
 
-Link to Notebook
+Link to Notebook: https://github.com/dsumme-ai/Assignment5_1/blob/main/prompt5.1_Doug.ipynb
 
 # *Final Summary*
 
